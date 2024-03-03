@@ -23,11 +23,11 @@ This README file provides instructions for setting up, understanding dependencie
 
 #### Execution Instructions
 
-1. **Data Loading**: Ensure that the CSV files (`Plant_2_Generation_Data.csv` and `Plant_2_Weather_Sensor_Data.csv`) are located in the same directory as your Python script or notebook.
+1. **Data Loading**: Ensure that the CSV files (`Plant_2_Generation_Data.csv` and `Plant_2_Weather_Sensor_Data.csv`) are located in the same directory as  Python script or notebook taken from Kaggle.
 
-2. **Code Execution**: Copy the provided code into your Python script or notebook.
+2. **Code Execution**: Copy the provided code into Python script or notebook.
 
-3. **Run the Code**: Execute the script or notebook to run the code. Ensure that the necessary libraries are imported at the beginning of your script or notebook.
+3. **Run the Code**: Execute the script or notebook to run the code. Ensure that the necessary libraries are imported at the beginning of  script or notebook.
 
 4. **Interpret Results**: After running the code, interpret the results from the visualizations, model evaluation metrics, and solar power predictions provided in the output.
 
